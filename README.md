@@ -29,7 +29,7 @@
 - [x] Graduar prepa
 - [ ] Graduarme de universidad
 
-## Codigo de Snake
+## Codigo de Snake para actividad
 
 `
 from random import randrange
